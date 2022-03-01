@@ -26,6 +26,7 @@ public class match_score{
        else{
         System.out.println("Invalid Input.");
        }
+       sc.close();
     }
 
 }
